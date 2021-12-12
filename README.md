@@ -1,4 +1,4 @@
-**Project Overview - Stock Auctions with Socket programming**
+#Project Overview - Stock Auctions with Socket programming
 
 **Stock auction**
 
