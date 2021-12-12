@@ -1,0 +1,8 @@
+Why Not You Can Backup Full Account Details.
+-------------------------------------------------------------------
+
+Fallow That Path
+
+My Profile >> Export >> Backup >> Ok
+
+Now Your Backup txt will store on your Application Path.

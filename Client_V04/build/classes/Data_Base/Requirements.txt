@@ -1,0 +1,15 @@
+Windows Version : Windows XP OR Above
+
+Other Softwere : Java JDK Must Be Run On The Device
+
+JDK Version :SE Runtime Environment (build 1.8.0_281-b09) OR Above
+
+RAM : 50 MB > = 100MB 
+
+Storage : 10MB Minimum Storage Required
+
+Connectivity : Wifi Or Eathernet Connection Required But can be Run 
+
+               On Localhost
+
+

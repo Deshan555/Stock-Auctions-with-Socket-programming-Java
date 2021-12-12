@@ -1,0 +1,81 @@
+Quick Guide For ZTOCK CLIENT V01
+
+
+Technical Word Explain
+-------------------------
+
+What is IP Address?
+-------------------------
+
+IP address is a numerical label assigned 
+
+to each device connected to a computer 
+
+network that uses the Internet Protocol 
+
+for communication. An IP address serves 
+
+two main functions: host or network interface 
+
+identification and location addressing. 
+
+Internet Protocol version 4 (IPv4) defines an 
+
+IP address as a 32-bit numbers.
+
+
+What is Localhost?
+--------------------------
+
+The localhost is the default name describing 
+
+the local computer address also known as 
+
+the loopback address. For example, 
+
+typing: ping localhost would ping the local 
+
+IP address of 127.0.0.1 (the loopback address). 
+
+When setting up a web server or software on 
+
+a web server, 127.0.0.1 is used to point 
+
+the software to the local machine.
+
+
+Application Details
+-------------------------------------------
+
+1. Before you make a Bid Enter Valid IP 
+
+Address For Log Into Server.
+
+2. After You Log Into Server , Server 
+
+Send a Bid table for you.
+
+3. After you get the Bidding table.Read 
+
+Carefully and enter Valid Symbol and Your 
+
+Bidding Price.
+
+4. Your Bidding Value Must be Higher than 
+
+Table Price.
+
+5. If You add Lower Price than table 
+
+Bidding Drop To Trash Bin,It means 
+
+Your Bidding Ignore By The System.
+
+6. If Bidding accept System Send You A 
+
+Samll Text Like as "Bidding Successfully 
+
+Record".
+
+Happy Bidding!!!!!!!!!!!!!!!!!!!!
+

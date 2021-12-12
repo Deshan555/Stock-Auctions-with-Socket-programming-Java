@@ -1,0 +1,35 @@
+Here Some Solutions
+
+1). Check Your Internet Connection.
+
+2). Check IP Your Entered.
+
+3). Make Sure You Install Java Properly.
+
+4). Don't Remove any txt or access files come with this application.
+
+5). Don't Remove or edit any files when application running.
+
+6). You Must Want Copy Support Files(lib) To Your Defult java 
+
+    - Directory.
+
+  >> Example Copy lib files to your jdk lib folder
+
+  >> C://Program Files//Java//jdk-15.0.1//lib
+
+7). Fallowing Jar Files must want to run this application there 
+
+    - for dont remove that files 
+
+    >> AbsoluteLayout.jar
+    
+    >>Commons-lang3-3.8.1.jar
+    
+    >>commons-logging-1.2.jar
+    
+    >>hsqldb-2.5.0.jar
+    
+    >>jackcess-3.0.1.jar
+    
+    >>ucanaccess-5.0.1.jar
